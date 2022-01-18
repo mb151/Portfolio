@@ -1,0 +1,43 @@
+.social-icons{
+    text-align: center;
+  }
+ 
+  .git{
+    margin: 2%;
+    color: white;
+    font-size: 2.5rem;
+  }
+
+  .git:hover{
+    color: #f5fcf5;
+  }
+
+  .linkedin{
+    margin: 2%;
+    color: white;
+    font-size: 2.5rem;
+  }
+  
+  .linkedin:hover{
+    color: #0e76a8;
+  }
+
+  .google{
+    margin: 2%;
+    color: white;
+    font-size: 2.5rem;
+  }
+  
+  .google:hover{
+    color: #c7420e;
+  }
+
+  .whatsapp{
+    margin: 2%;
+    color: white;
+    font-size: 2.7rem;
+  }
+  
+  .whatsapp:hover{
+    color: green;
+  }
